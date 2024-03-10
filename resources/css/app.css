@@ -1,0 +1,67 @@
+/* resources/css/app.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+[x-cloak] {
+    display: none;
+}
+
+
+.font-family-karla { font-family: karla; }
+.bg-sidebar { background: #3957F9;}
+.cta-btn { color: #3d68ff; }
+.upgrade-btn { background: #1947ee; }
+.upgrade-btn:hover { background: #0038fd; }
+.active-nav-link { background: #1947ee; }
+.nav-item:hover { background: #1947ee; }
+.account-link:hover { background: #3d68ff; }
+
+
+.bg-1e40af {
+    background-color: #1e40af;
+}
+.bg-ef4444 {
+    background-color: #ef4444;
+}
+
+.bg-991b1b {
+    background-color: #991b1b;
+}
+
+.bg-a8f312 {
+    background-color: #a8f312;
+}
+.bg-fdad41 {
+    background-color: #fdad41;
+}
+
+.bg-a230a3 {
+    background-color: #a230a3;
+}
+
+.bg-6b21a8 {
+    background-color: #6b21a8;
+}
+
+.bg-8b5cf6 {
+    background-color: #8b5cf6;
+}
+
+.bg-0ea5e9 {
+    background-color: #0ea5e9;
+}
+
+.bg-eab308 {
+    background-color: #eab308;
+}
+
+
+.bg-166534 {
+    background-color: #166534;
+}
+
+.bg-3f6212 {
+    background-color: #3f6212;
+}
+
